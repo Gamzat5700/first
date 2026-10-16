@@ -1,3 +1,33 @@
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f8fafc;
+  text-align: center;
+  color: #0f172a;
+}
+
+header {
+  background: #0f172a;
+  color: white;
+  padding: 15px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header p {
+  color: #94a3b8;
+}
+
+main {
+  padding: 70px 20px;
+}
+
+main h1 {
+  font-size: 36px;
+}
+
 section {
   background: white;
   max-width: 500px;
